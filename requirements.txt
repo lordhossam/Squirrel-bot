@@ -1,4 +1,0 @@
-pip install python-telegram-bot
-pip install aiohttp
-pip install python-dotenv
-pip install requests
